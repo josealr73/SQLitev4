@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">SQLitev4</string>
+    <string name="intersticial_block">ca-app-pub-8556189544028694~6987666944</string>
+
+    <!-- SettingsActivity -->
+    <string name="google_ad_info">Aceptas que Google muestre anuncios basados en tus intereses</string>
+    <string name="button1">1 Segundo</string>
+    <string name="button2">2 Segundos</string>
+    <string name="button3">3 Segundos</string>
+    <string name="button4">4 Segundos</string>
+    <string name="button5">5 Segundos</string>
+
+    <!-- ResultActivity -->
+    <string name="aciertos">Aciertos</string>
+    <string name="fallos">Fallos</string>
+
+    <!-- TestActivity -->
+    <string name="menu">Menú</string>
+    <string name="respuesta1">Respuesta1</string>
+    <string name="respuesta2">Respuesta2</string>
+    <string name="respuesta3">Respuesta3</string>
+    <string name="respuesta4">Respuesta4</string>
+
+    <string name="volver">Volver</string>
+    <string name="pregunta">Pregunta</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="no_preguntas">No hay preguntas</string>
+</resources>
